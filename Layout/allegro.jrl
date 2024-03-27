@@ -1,0 +1,14 @@
+\t (00:59:54) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:59:54)     Journal start - Sat Jan 20 21:12:01 2024
+\t (00:59:54)         Host=DESKTOP-BQCQU8B User=UTILIZATOR Pid=664 CPUs=8
+\t (00:59:54) CmdLine= D:\OrCad\tools\bin\allegro.exe
+\t (00:59:54) 
+\d (00:59:54) Design opened: C:/Users/UTILIZATOR/Desktop/P1_2023_432A_Dobrisor_Viorel_PAI_N24_OrCAD/Layout/PCB_nou.brd
+\i (00:59:54) generaledit 
+\i (01:00:02) status 
+\i (01:00:02) generaledit 
+\i (01:00:05) setwindow form.status
+\i (01:00:05) FORM status done  
+\i (01:01:29) setwindow pcb
+\i (01:01:29) exit 
+\t (01:01:29)     Journal end - Sat Jan 20 21:13:35 2024
